@@ -4,3 +4,4 @@
 1. Установить все библиотеки и зависимости: pip install -r requirements.txt.
 2. Запустить тесты: pytest tests/test_auth.py.
 ____
+рпарар
