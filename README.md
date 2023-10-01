@@ -12,3 +12,7 @@ ____
 3. Плагин для pytest, который генерирует HTML-отчет по результатам тестов pytest-html.
 4. Для определения локаторов использовались инструменты: DevTools, ChroPath.
 ____
+
+### Тест-кейсы и баг репорты
+
+https://docs.google.com/spreadsheets/d/1chSNL_GBcmfI95e3DttuDXYA7DodWpoGcAZiHgLjSOk/edit?usp=sharing
