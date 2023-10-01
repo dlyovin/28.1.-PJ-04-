@@ -67,6 +67,6 @@ class TestData:
         '12345678': 'digit'
     }
 
-    VALID_EMAIL = "tmdoronina@gmail.com"
-    VALID_PHONE = "92345678"
-    VALID_PASSWORD = "12345678Rr"
+    VALID_EMAIL = "d.lyovin@gmail.com"
+    VALID_PHONE = "921355678"
+    VALID_PASSWORD = "12345678Qr"
